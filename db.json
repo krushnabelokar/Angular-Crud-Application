@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 5,
+      "fname": "Asif ",
+      "lname": "Khan",
+      "email": "asif.khanna@gmial.com"
+    },
+    {
+      "id": 6,
+      "fname": "Rahul",
+      "lname": "Datta",
+      "email": "rahul.datta@gmail.com"
+    },
+    {
+      "id": 7,
+      "fname": "Pooja",
+      "lname": "sakshena",
+      "email": "pooja.sakshena@gmail.com"
+    },
+    {
+      "id": 8,
+      "fname": "Nilesh",
+      "lname": "Tayde",
+      "email": "nilesh.kasane@gmail.com"
+    },
+    {
+      "id": 9,
+      "fname": "Krushna",
+      "lname": "Belokar",
+      "email": "krushna.belokar@imriel.com"
+    },
+    {
+      "id": 10,
+      "fname": "Pawan ",
+      "lname": "More",
+      "email": "pawan.rajput@gmail.com"
+    },
+    {
+      "id": 11,
+      "fname": "Renuka",
+      "lname": "Kulkurni",
+      "email": "rebukakulkurni@123"
+    },
+    {
+      "id": 12,
+      "fname": "swapnil",
+      "lname": "chaudhari",
+      "email": "swapnil@gmail.com"
+    },
+    {
+      "id": 13,
+      "fname": "Vikas",
+      "lname": "Ved",
+      "email": "vikas@gmail.com"
+    },
+    {
+      "id": 16,
+      "fname": "shivaji",
+      "lname": "patil",
+      "email": "shiva@gmail.com"
+    }
+  ]
+}
